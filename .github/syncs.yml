@@ -1,0 +1,7 @@
+syncs:
+  - repos:
+      - rahulmodiphilips/repoa
+      - rahulmodiphilips/repob
+    files:
+      - src: filefour.js
+        dest: project_A

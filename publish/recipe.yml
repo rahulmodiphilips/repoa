@@ -8,3 +8,4 @@ target:
   copy_to:
     - "project_A"
   remove_after_copy:
+    - "project_B/secret_gadgets"
