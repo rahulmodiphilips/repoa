@@ -5,3 +5,9 @@ syncs:
     files:
       - src: filefour.js
         dest: project_A
+
+rahulmodiphilips/repoa:
+  - filefour.js
+
+rahulmodiphilips/repob:
+  - project_A/
